@@ -106,6 +106,10 @@ main(csv_path)
 - **Plots**: The script generates plots of the detected and regularized shapes.
 - **Symmetry Detection**: Outputs details about the symmetries (if any) detected in the shapes.
 
+## References
+- https://www.sciencedirect.com/science/article/pii/S0377042715002435
+- https://www.sciencedirect.com/science/article/pii/S0925772114001059
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue if you encounter bugs or have suggestions for improvements.
