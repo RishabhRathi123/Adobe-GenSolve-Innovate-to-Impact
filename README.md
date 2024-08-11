@@ -1,5 +1,5 @@
 # Adobe-GenSolve-Innovate-to-Impact
-
+# Curvetopia
 # Shape Detection, Completion, Regularization, and Symmetry Detection
 
 This repository provides a Python implementation to analyze, complete, regularize, and detect symmetries in shapes described by polylines. The code processes polylines stored in a CSV file and performs several geometric operations to manipulate and analyze the shapes.
