@@ -1,6 +1,6 @@
 Here is the complete `README.md` file based on the provided response:
 
-```
+```markdown
 ---
 title: Curvetopia
 emoji: 🎨
@@ -131,6 +131,6 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
+
 
 
