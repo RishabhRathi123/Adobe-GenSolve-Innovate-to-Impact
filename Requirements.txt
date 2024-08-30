@@ -1,12 +1,6 @@
-# Core dependencies
-numpy==1.24.3
-matplotlib==3.7.1
-
-# Image processing library
-opencv-python==4.7.0.72
-
-# For image segmentation and morphological operations
-scikit-image==0.20.0
-
-
-
+numpy
+matplotlib
+opencv-python
+scikit-image
+scipy
+gradio
