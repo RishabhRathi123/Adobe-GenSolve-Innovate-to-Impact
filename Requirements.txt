@@ -1,6 +1,6 @@
-numpy
-matplotlib
-opencv-python
-scikit-image
-scipy
-gradio
+numpy==1.24.0
+matplotlib==3.7.1
+opencv-python==4.7.0.72
+scikit-image==0.21.0
+scipy==1.10.0
+gradio==3.16.0
