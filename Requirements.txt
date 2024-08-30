@@ -11,6 +11,6 @@ scikit-image==0.20.0
 
 # You can install the required dependencies with the exact versions you've used by running:
  pip install -r requirements.txt 
-If you want to create a requirements.txt file that captures the exact versions you have in your environment, you can use:
+# If you want to create a requirements.txt file that captures the exact versions you have in your environment, you can use:
  pip freeze > requirements.txt 
 
