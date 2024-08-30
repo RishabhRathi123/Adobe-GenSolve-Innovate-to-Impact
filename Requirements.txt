@@ -1,10 +1,16 @@
+# Core dependencies
 numpy==1.24.3
 matplotlib==3.7.1
+
+# Image processing library
 opencv-python==4.7.0.72
+
+# For image segmentation and morphological operations
 scikit-image==0.20.0
 
-You can install the required dependencies with the exact versions you've used by running:
-""" pip install -r requirements.txt """
+
+# You can install the required dependencies with the exact versions you've used by running:
+ pip install -r requirements.txt 
 If you want to create a requirements.txt file that captures the exact versions you have in your environment, you can use:
-""" pip freeze > requirements.txt """
+ pip freeze > requirements.txt 
 
