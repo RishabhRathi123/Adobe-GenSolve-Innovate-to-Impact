@@ -1,17 +1,3 @@
-Here is the complete `README.md` file based on the provided response:
-
-```markdown
----
-title: Curvetopia
-emoji: 🎨
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: "3.23.0"
-app_file: app.py
-pinned: false
----
-```
 # Adobe-GenSolve-Innovate-to-Impact
 # "Curvetopia"
 # Shape Detection, Completion, Regularization, and Symmetry Detection
